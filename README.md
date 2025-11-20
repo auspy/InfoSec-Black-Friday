@@ -184,6 +184,14 @@ https://pentestingexams.com/ \
 80% off on all pentesting exams. Use code: BF-80 \
 Up to 90% Discount on all Community Exams (NO COUPON REQUIRED)
 
+## Mini Courses
+
+**SecDim** - In-Repository Secure Code Learning \
+https://play.secdim.com
+In-repository attack and defence wargame to learn appsec/devsecops/secure code/review. Find, hack and fix security vulnerabilities inspired by real-world incidents.  \
+35% off yearly, checkout using code: `APPSECONABUDGET2025` \
+Deal valid: 20th November - 5th December
+
 ## Books
 
 **The CloudSec Engineer** - A practical guide on how to enter and thrive in the Cloud Security industry. \
