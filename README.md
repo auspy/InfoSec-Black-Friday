@@ -103,6 +103,13 @@ Deal ends: 1st December
 https://nslookup.io/dns-course/  
 66% off the course and certification \
 
+
+**Evilginx Mastery** – Adversary-in-the-middle (AiTM) phishing and Evilginx framework training \
+https://academy.breakdev.org/evilginx-mastery?coupon=BLACKWEEK  
+50% off Evilginx Mastery course with code `BLACKWEEK` (Black Week promo) \
+10% discount on new Evilginx Pro licenses during Black Week (see site for details) \
+Deal valid: Black Week 2025 
+
 **Hack The Box – Pro Labs annual subscription** \
 https://www.hackthebox.com/blog/New-pro-labs-discount  
 25% off Pro Labs annual subscription with code: `novprolabsannual25off` \
