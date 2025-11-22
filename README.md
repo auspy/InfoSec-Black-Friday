@@ -329,7 +329,7 @@ Deal ends: 4th December
 Deal ends: 3rd December
 
 **Focusmo** - Focusmo helps you log your day as you go - so you stop losing hours to distractions and end every day proud of what you achieved \
-[Focusmo Black Friday Deal](https://www.focusmo.app/?utm_source=infosec-github) \
+[focusmo.app](https://www.focusmo.app/?utm_source=infosec-github) \
 50% off Lifetime Plan, code automatically applied \
 Deal ends: 3rd December
 
